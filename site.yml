@@ -1,0 +1,4 @@
+- hosts: aws-ec2
+  roles:
+    - yum
+    - wordpress

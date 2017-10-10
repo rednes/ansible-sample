@@ -1,0 +1,8 @@
+Host *
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+ 
+Host aws-ec2
+  HostName "XX.XX.XX.XX"
+  User "user"
+  IdentityFile "XXXXXX.pem"
