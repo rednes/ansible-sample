@@ -3,6 +3,6 @@ Host *
   UserKnownHostsFile /dev/null
  
 Host aws-ec2
-  HostName "XX.XX.XX.XX"
-  User "user"
-  IdentityFile "XXXXXX.pem"
+  HostName "XX.XX.XX.XX"    # set your environment
+  User "user"　　　　　　　 # set your environment
+  IdentityFile "XXXXXX.pem" # set your environment
