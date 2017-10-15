@@ -53,5 +53,5 @@ MySQLのDB名、ユーザー名、パスワードは以下をデフォルト値�
 * パスワード：wordpress
 
 ```
-http://(EC2インスタンスのパブリックDNS)/wordpress/wp-admin/install.php
+http://(EC2インスタンスのパブリックDNS)/wordpress/wp-admin/setup-config.php
 ```
